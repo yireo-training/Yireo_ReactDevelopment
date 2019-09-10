@@ -1,8 +1,8 @@
 var config = {
     map: {
         '*': {
-            react: 'https://unpkg.com/react@16/umd/react.development',
-            reactDom: 'https://unpkg.com/react-dom@16/umd/react-dom.development'
+            react: 'Yireo_React/js/react.development.min',
+            reactDom: 'Yireo_React/js/react-dom.development.min'
         }
     }
 };
